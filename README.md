@@ -27,3 +27,8 @@
 <div align="center">
   <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/580efa57-103c-407a-a3f5-4f2d1544a748" width="600" />
 </div>
+
+### 이벤트 페이지
+<div align="center">
+  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/580efa57-103c-407a-a3f5-4f2d1544a748" width="600" />
+</div>
