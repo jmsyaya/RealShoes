@@ -23,4 +23,7 @@
   <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/f3754164-4509-4c31-9f13-ee7f5b5a01ca" width="500" />
 </div>
 
-
+### 장바구니 페이지
+<div align="center">
+  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/580efa57-103c-407a-a3f5-4f2d1544a748" width="550" />
+</div>
