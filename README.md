@@ -14,7 +14,7 @@
 
 ### 메인페이지
 <div align="center">
-  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/66a6b0aa-2e40-43dd-b00b-1121c75e88e2" width="550" />
+  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/66a6b0aa-2e40-43dd-b00b-1121c75e88e2" width="600" />
 </div>
 
 ### 상품 상세페이지
@@ -25,5 +25,5 @@
 
 ### 장바구니 페이지
 <div align="center">
-  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/580efa57-103c-407a-a3f5-4f2d1544a748" width="550" />
+  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/580efa57-103c-407a-a3f5-4f2d1544a748" width="600" />
 </div>
