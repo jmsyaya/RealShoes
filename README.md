@@ -14,7 +14,7 @@
 
 ### 메인페이지
 <div align="center">
-  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/66a6b0aa-2e40-43dd-b00b-1121c75e88e2" width="600" />
+  <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/66a6b0aa-2e40-43dd-b00b-1121c75e88e2" alt="image" />
 </div>
 
 ### 메인페이지 구조
