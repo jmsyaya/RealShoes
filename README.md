@@ -2,7 +2,7 @@
 
 ## Real Shoes
 
-- Real Shoes는 ""를 이용한 오픈마켓입니다.
+- Real Shoes는 React를 이용한 오픈마켓입니다.
 
 ## 개발환경
 
