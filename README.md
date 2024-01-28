@@ -8,7 +8,7 @@
 
 `React`
 
-라이브러리 : `react-router-dom@6`, `axios`
+라이브러리 : `react-router-dom@6`, `axios`, `reduxjs/toolkit`, 'bootstrap'
 
 ## 페이지 기능
 
