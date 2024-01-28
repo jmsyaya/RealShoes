@@ -29,7 +29,7 @@
   <br><br/><br><br/>
   <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/f3754164-4509-4c31-9f13-ee7f5b5a01ca" alt="image" />
 </div>
- <br><br/><br><br/>
+ <br><br/>
  
 ### 장바구니 페이지
 <div align="center">
@@ -41,5 +41,6 @@
 <div align="center">
   <img src="https://github.com/jmsyaya/RealShoes/assets/63501931/89338ab3-7bb2-4191-a3fb-47ecf924ce72" alt="image" />
 </div>
-
+ <br><br/><br><br/>
+ 
 ### 구현사항
